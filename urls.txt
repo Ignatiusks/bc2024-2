@@ -1,1 +1,2 @@
 http://backend.course/Ignatiusks
+http://backend.course?name=%22Зялік%20Ігнатій%22&github_name=Ignatiusks&group=%22ФЕІ-22с%22&subgroup=%22Підгрупа%202%22 
